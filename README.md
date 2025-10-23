@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul Pinson
 ===================================================================================================================================
-
+Digital Graphist
+UI/UX Designer
 Frontend and Web developer
 --------------------------
 
-I am a student at Gobelins Paris in web design, passionate in web developpement and in game design / level design
+I am a student at Ynov Paris in digital graphist specialise in UI/UX. I also was at Gobelins Paris in web design.
 
 * 🌍  I'm based in Bagnolet, France
 * 🖥️  See my portfolio at [MyPortfolio](http://dnmade.gobelins-pedago.fr/2026/pp/?p=97)
 * ✉️  You can contact me at [paul.pinson60@gmail.com](mailto:paul.pinson60@gmail.com)
-* 🧠  I'm learning Three.js
-* 🤝  I'm open to collaborating on projects
 * ⚡  Currently looking for a work-study contract at Paris or arround in web design, feel free to contact me for any informations
 
 ### Skills
